@@ -1,3 +1,7 @@
+# Project: Alarm Clock
+# Application developed by: codewithj4ke - September 2024
+# Learning Python programming with the assistance of AI and online courses
+
 from tkinter import *
 from tkinter import ttk
 from tkinter import messagebox
