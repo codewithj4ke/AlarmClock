@@ -10,7 +10,7 @@ A simple alarm clock application built using Python's `tkinter` library. This ap
 - **Countdown Display:** See the remaining time until the alarm rings.
 - **Sound Notification:** Play a sound and show a message box when the alarm triggers.
 - **Cancel Alarm:** Stop the alarm and hide the countdown.
-- **Light/Dark:** Provided both light and dark version
+- **Light/Dark:** Available in both light and dark versions
 
 ## Requirements
 
